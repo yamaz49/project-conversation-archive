@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目对话复盘归档"
+  short_description: "跨AI助手识别持续项目，以分枝主题图增量维护Obsidian复盘"
+  default_prompt: "Use $project-conversation-archive to discover accessible AI-assistant conversations, keep shallow material out of full project folders, build evidence-backed branched topic maps for sustained projects, and incrementally update my remembered Obsidian Vault."
