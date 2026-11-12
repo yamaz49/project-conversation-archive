@@ -41,7 +41,7 @@ Small but useful outcomes remain searchable in one shared lightweight index. Amb
 Clone or copy this repository into your Codex skills directory:
 
 ```bash
-git clone <repository-url> "${CODEX_HOME:-$HOME/.codex}/skills/project-conversation-archive"
+git clone https://github.com/yamaz49/project-conversation-archive.git "${CODEX_HOME:-$HOME/.codex}/skills/project-conversation-archive"
 ```
 
 Restart Codex after installation if the skill is not discovered immediately.

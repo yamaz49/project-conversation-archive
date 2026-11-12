@@ -1,6 +1,8 @@
 ---
 name: project-conversation-archive
 description: "Discover and merge accessible conversations across configured AI assistants and exports into evidence-backed project retrospectives, branched topic maps, source statistics, asset indexes, and incremental Obsidian updates. Keeps low-depth conversations out of full project folders. Use for multi-task or substantial project retrospectives, not ordinary single-chat summaries."
+metadata:
+  version: "1.0.0"
 ---
 
 # Project Conversation Archive
